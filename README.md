@@ -28,3 +28,5 @@ Comment relever ces défis ?
 4- Une source plus fiable doit être utilisée pour revérifier les données, au moins pour entraîner le modèle.
 
 5- Nous pouvons rendre le modèle simple et interprétable afin que, lorsque l'escroc s'y adapte avec seulement quelques ajustements, nous puissions avoir un nouveau modèle opérationnel à déployer.
+
+Donnée: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
