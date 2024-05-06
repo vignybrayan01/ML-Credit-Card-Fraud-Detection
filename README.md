@@ -3,6 +3,7 @@
 
 Le défi consiste à reconnaître les transactions frauduleuses par carte de crédit afin que les clients des sociétés émettrices de cartes de crédit ne soient pas facturés pour des articles qu'ils n'ont pas achetés.
 
+
 Les principaux défis liés à la détection de la fraude par carte de crédit sont :
 
 1- D'énormes données sont traitées chaque jour et la construction du modèle doit être suffisamment rapide pour répondre à l'arnaque à temps.
@@ -14,6 +15,7 @@ Les principaux défis liés à la détection de la fraude par carte de crédit s
 4- Les données mal classées peuvent constituer un autre problème majeur, car toutes les transactions frauduleuses ne sont pas détectées et signalées.
 
 5- Techniques adaptatives utilisées contre le modèle par les escrocs.
+
 
 Comment relever ces défis ?
 
